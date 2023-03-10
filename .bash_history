@@ -552,3 +552,43 @@ git --list
 git config --list
 git config --list --show-origin
 ls
+clear
+ls
+git status
+git add 
+ls
+pwd
+clear
+ls
+[wd
+pwd
+ls
+git status
+pwd
+git branch
+git add .
+git status
+ls
+git commit -m"jdlfjlsdfj"
+sudo yum remove git -y
+cd /opt
+ls
+cd vmtutes/
+ls
+cd bin/
+ls
+cd ..
+ls
+cd ..
+rm -rf vmtutes/
+ls
+sudo rm -rf vmtutes/
+ls
+cd
+git --version
+ls
+sudo rm -rf git-2.39.0 git-2.39.1  git-2.4.1
+ls
+git-2.39.1  git-2.4.1
+git --version
+ls
